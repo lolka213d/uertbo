@@ -1,0 +1,114 @@
+2025-08-03 10:53:18,875:pyrogram.crypto.aes:22668:26 | INFO Using TgCrypto
+2025-08-03 10:53:21,681:pyrogram.session.auth:22668:82 | INFO Start creating a new auth key on DC2
+2025-08-03 10:53:21,681:pyrogram.connection.connection:22668:47 | INFO Connecting...
+2025-08-03 10:53:21,773:pyrogram.connection.connection:22668:54 | INFO Connected! Production DC2 - IPv4
+2025-08-03 10:53:23,539:pyrogram.session.auth:22668:267 | INFO Done auth key exchange: DhGenOk
+2025-08-03 10:53:23,539:pyrogram.connection.connection:22668:66 | INFO Disconnected
+2025-08-03 10:53:23,583:pyrogram.connection.connection:22668:47 | INFO Connecting...
+2025-08-03 10:53:23,684:pyrogram.connection.connection:22668:54 | INFO Connected! Production DC2 - IPv4
+2025-08-03 10:53:23,687:pyrogram.session.session:22668:294 | INFO NetworkTask started
+2025-08-03 10:53:24,113:pyrogram.session.session:22668:139 | INFO Session initialized: Layer 158
+2025-08-03 10:53:24,113:pyrogram.session.session:22668:140 | INFO Device: CPython 3.13.5 - Pyrogram 2.0.106
+2025-08-03 10:53:24,113:pyrogram.session.session:22668:141 | INFO System: Windows 11 (ru)
+2025-08-03 10:53:24,114:pyrogram.session.session:22668:155 | INFO Session started
+2025-08-03 10:53:41,267:pyrogram.session.session:22668:272 | INFO PingTask started
+2025-08-03 10:53:41,267:pyrogram.session.session:22668:315 | INFO NetworkTask stopped
+2025-08-03 10:53:41,267:pyrogram.session.session:22668:291 | INFO PingTask stopped
+2025-08-03 10:53:41,267:pyrogram.connection.connection:22668:66 | INFO Disconnected
+2025-08-03 10:53:41,268:pyrogram.session.session:22668:180 | INFO Session stopped
+2025-08-03 10:53:41,268:pyrogram.connection.connection:22668:47 | INFO Connecting...
+2025-08-03 10:53:41,362:pyrogram.connection.connection:22668:54 | INFO Connected! Production DC2 - IPv4
+2025-08-03 10:53:41,362:pyrogram.session.session:22668:294 | INFO NetworkTask started
+2025-08-03 10:53:41,688:pyrogram.session.session:22668:139 | INFO Session initialized: Layer 158
+2025-08-03 10:53:41,689:pyrogram.session.session:22668:140 | INFO Device: CPython 3.13.5 - Pyrogram 2.0.106
+2025-08-03 10:53:41,689:pyrogram.session.session:22668:141 | INFO System: Windows 11 (ru)
+2025-08-03 10:53:41,689:pyrogram.session.session:22668:155 | INFO Session started
+2025-08-03 10:53:41,689:pyrogram.session.session:22668:272 | INFO PingTask started
+2025-08-03 10:53:56,274:pyrogram.session.session:22668:404 | INFO [1] Retrying "auth.SendCode" due to: Request timed out
+2025-08-03 10:54:09,390:pyrogram.session.session:22668:291 | INFO PingTask stopped
+2025-08-03 10:54:09,390:pyrogram.session.session:22668:315 | INFO NetworkTask stopped
+2025-08-03 10:54:09,390:pyrogram.connection.connection:22668:66 | INFO Disconnected
+2025-08-03 10:54:09,390:pyrogram.session.session:22668:180 | INFO Session stopped
+2025-08-03 10:54:09,455:pyrogram.connection.connection:22668:47 | INFO Connecting...
+2025-08-03 10:54:09,543:pyrogram.connection.connection:22668:54 | INFO Connected! Production DC2 - IPv4
+2025-08-03 10:54:09,545:pyrogram.session.session:22668:294 | INFO NetworkTask started
+2025-08-03 10:54:10,010:pyrogram.session.session:22668:139 | INFO Session initialized: Layer 158
+2025-08-03 10:54:10,010:pyrogram.session.session:22668:140 | INFO Device: CPython 3.13.5 - Pyrogram 2.0.106
+2025-08-03 10:54:10,010:pyrogram.session.session:22668:141 | INFO System: Windows 11 (ru)
+2025-08-03 10:54:10,011:pyrogram.session.session:22668:155 | INFO Session started
+2025-08-03 10:54:10,055:pyrogram.session.session:22668:272 | INFO PingTask started
+2025-08-03 10:54:10,298:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("example_help") in group 0 from "userbot.plugins._example"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("dead") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("sjopa") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("betaloves") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("brain") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("dr_anim") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("zaika") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("valentine") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("wink") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("hug") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("pat") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,179:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("tea_handler") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("dislike_handler") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("like_handler") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("vzlom") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("vzlomip") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("vzlombank") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("hackpc") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("_drugs") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("onal_handler") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,180:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("mum_command_handler") in group 0 from "userbot.plugins.animations"
+2025-08-03 10:54:11,359:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("addbull") in group 0 from "userbot.plugins.bulling"
+2025-08-03 10:54:11,359:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("delbull") in group 0 from "userbot.plugins.bulling"
+2025-08-03 10:54:11,360:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("bull") in group 0 from "userbot.plugins.bulling"
+2025-08-03 10:54:11,360:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("bulling_handler") in group 0 from "userbot.plugins.bulling"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("loadmod") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("unloadmod") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("backup") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("reload") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("_logs") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,413:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("inf") in group 0 from "userbot.plugins.default"
+2025-08-03 10:54:11,418:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("smagic") in group 0 from "userbot.plugins.hearts"
+2025-08-03 10:54:11,418:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("sloveyou") in group 0 from "userbot.plugins.hearts"
+2025-08-03 10:54:11,418:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("sloves") in group 0 from "userbot.plugins.hearts"
+2025-08-03 10:54:11,419:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("sheart") in group 0 from "userbot.plugins.hearts"
+2025-08-03 10:54:11,419:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("help_command_handler") in group 0 from "userbot.plugins.help"
+2025-08-03 10:54:11,421:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("update_status_handler") in group 0 from "userbot.plugins.misc"
+2025-08-03 10:54:11,421:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("calc") in group 0 from "userbot.plugins.misc"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("set_chat_photo") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("member_ban") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("member_ban") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("member_unban") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("member_unban") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("pin_message") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("pin_message") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("mute") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("mute") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,427:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("unmute") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("unmute") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("kick_user") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("kick_user") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("promotte") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("promotte") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("demote") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,428:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("demote") in group 0 from "userbot.plugins.modtools"
+2025-08-03 10:54:11,442:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("showdown") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,442:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("versus") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,442:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("zoo") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("stars") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("landisi") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("neverenough") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("kaif") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("zelglaz") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("shadowfiend") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,443:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("astralstep") in group 0 from "userbot.plugins.music"
+2025-08-03 10:54:11,446:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("add_picture") in group 0 from "userbot.plugins.pictures"
+2025-08-03 10:54:11,446:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("all_picture") in group 0 from "userbot.plugins.pictures"
+2025-08-03 10:54:11,446:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("send_pic") in group 0 from "userbot.plugins.pictures"
+2025-08-03 10:54:11,448:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("gifspam") in group 0 from "userbot.plugins.spam"
+2025-08-03 10:54:11,449:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("spam") in group 0 from "userbot.plugins.spam"
+2025-08-03 10:54:11,449:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("spamstick") in group 0 from "userbot.plugins.spam"
+2025-08-03 10:54:11,449:pyrogram.client:22668:698 | INFO [spribe-userbot] [LOAD] MessageHandler("ghoul") in group 0 from "userbot.plugins.spam"
+2025-08-03 10:54:11,449:pyrogram.client:22668:747 | WARNING [spribe-userbot] [UNLOAD] Ignoring non-existent module "userbot/plugins._example"
+2025-08-03 10:54:11,449:pyrogram.client:22668:775 | INFO [spribe-userbot] Successfully loaded 72 plugins from "userbot/plugins"
+2025-08-03 10:54:11,450:pyrogram.dispatcher:22668:154 | INFO Started 16 HandlerTasks
