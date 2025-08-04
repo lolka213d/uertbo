@@ -523,7 +523,7 @@ async def valentine(client, message):
 @Client.on_message(filters.command("wink", ".") & filters.me)
 async def wink(client, message):
     try:
-        hmm_s = "https://some-random-api.com/animu/wink"
+        hmm_s = "https://api.waifu.pics/sfw/wink"
         r = requests.get(url=hmm_s).json()
         image_s = r["link"]
         await client.send_video(message.chat.id, image_s)
@@ -537,9 +537,9 @@ async def wink(client, message):
 @Client.on_message(filters.command("hug", ".") & filters.me)
 async def hug(client, message):
     try:
-        hmm_s = "https://some-random-api.com/animu/hug"
+        hmm_s = "https://api.waifu.pics/sfw/hug"
         r = requests.get(url=hmm_s).json()
-        image_s = r["link"]
+        image_s = r["url"]
         await client.send_video(message.chat.id, image_s)
         await message.delete()
     except Exception as e:
@@ -551,7 +551,20 @@ async def hug(client, message):
 @Client.on_message(filters.command("pat", ".") & filters.me)
 async def pat(client, message):
     try:
-        hmm_s = "https://some-random-api.com/animu/pat"
+        hmm_s = "https://api.waifu.pics/sfw/pat"
+        r = requests.get(url=hmm_s).json()
+        image_s = r["url"]
+        await client.send_video(message.chat.id, image_s)
+        await message.delete()
+    except Exception as e:
+        await message.edit("Ошибка на стороне сайта. Попробуйте позже")
+        await sleep(1)
+        await message.delete()
+        
+@Client.on_message(filters.command("kiss", ".") & filters.me)
+async def kiss(client, message):
+    try:
+        hmm_s = "https://api.waifu.pics/sfw/kiss"
         r = requests.get(url=hmm_s).json()
         image_s = r["link"]
         await client.send_video(message.chat.id, image_s)
@@ -1372,6 +1385,7 @@ add_command_help(
         [".mum", "Анимация «Поиск м@маши»"],
         [".wink", "Присылает рандомную гифку с подмигиванием"],
         [".hug", "Присылает рандомную гифку с обнимашками"],
-        [".pat", "Присылает рандомную гифку с поглаживанием по голове"]
+        [".pat", "Присылает рандомную гифку с поглаживанием по голове"],
+        [".kiss", "Присылает рандомную гифку с поцелуем"],
     ]
 )
